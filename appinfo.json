@@ -1,0 +1,31 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "resources": {
+        "media": [
+            {
+                "name": "IMAGE_DOOR_B",
+                "file": "images/DOOR_B.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_DOOR_A",
+                "file": "images/DOOR_A.png",
+                "type": "png"
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "shortName": "layer",
+    "versionLabel": "1.0",
+    "versionCode": 1,
+    "longName": "layer",
+    "companyName": "lucalatina@gmail.com",
+    "capabilities": [
+        ""
+    ],
+    "uuid": "75b2303d-dfa2-47a7-a3f7-dc22b4b81491"
+}
